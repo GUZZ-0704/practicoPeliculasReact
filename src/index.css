@@ -1,0 +1,20 @@
+.error {
+    color: red;
+}
+
+img, iframe{
+    width: 100%;
+    height: auto;
+}
+
+.list-image{
+    width: 100%;
+    height: auto;
+    max-height: 150px;
+}
+
+.trailer{
+    width: 100%;
+    height: auto;
+    min-height: 400px;
+}
